@@ -398,8 +398,6 @@ body {
     height: 100%;
     object-fit: cover;
     transition: .5s;
-    filter: grayscale();
-    -webkit-filter: grayscale();
 }
 .about-media:hover img {
     filter: none;
